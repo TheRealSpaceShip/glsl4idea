@@ -1,6 +1,7 @@
-glsl4idea
-=========
+#glsl4idea
+Cloned from official plugin page http://code.google.com/p/glsl4idea/
 
+--
 A language plugin for IntelliJ IDEA that provides many of the same features that IntelliJ provides for Java
 Such as:
 
@@ -15,6 +16,10 @@ Possible future improvements:
 
  - Debugger
  - Compiler
- - GLSL 1.50 support 
+ - Support of different Open GL specifications
 
-Cloned from official plugin page http://code.google.com/p/glsl4idea/
+##Useful links:
+
+ - [OpenGL](http://www.khronos.org/opengl)
+ - [OpenGL ES](http://www.khronos.org/opengles/)
+ - [WebGL](http://www.khronos.org/webgl/)
