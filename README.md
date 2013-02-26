@@ -16,3 +16,5 @@ Possible future improvements:
  - Debugger
  - Compiler
  - GLSL 1.50 support 
+
+Cloned from official plugin page http://code.google.com/p/glsl4idea/
